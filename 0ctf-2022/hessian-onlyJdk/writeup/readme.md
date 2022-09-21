@@ -9,3 +9,5 @@ some interesting staic funtions
 - sun.tools.jar.Main.main
   - [writeup](https://gist.github.com/CykuTW/4c0d105df24acf2218e0aedb67661da9) @Cyku
 - System.setProperty + jdk.jfr.internal.Utils.writeGeneratedAsm @StrawHat
+- com.sun.org.apache.bcel.internal.util.JavaWrapper
+  - [writeup](https://siebene.github.io/2022/09/19/0CTF2022-hessian-onlyjdk-WriteUp/) @Siebene@ 
